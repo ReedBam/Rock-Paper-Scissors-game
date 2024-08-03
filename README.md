@@ -1,4 +1,4 @@
-/* 
+
 Rock Paper Scissors Game
 -------------------------
 Welcome to the Rock Paper Scissors game implemented in Marco!
