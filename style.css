@@ -1,0 +1,56 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: 'Courier New', monospace;
+    font-size: 3rem; 
+}
+
+header, main, footer {
+    background-color: #333;
+    padding: 30px;
+    text-align: center;
+}
+
+header {
+    border-bottom: 2px solid #fff;
+}
+
+main {
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+}
+
+footer {
+    border-top: 2px solid #fff;
+}
+
+h1, h3, h4, #result {
+    font-family: 'Courier New', monospace;
+}
+h1 {
+    font-size: 5rem; 
+}
+h3 {
+    font-size: 4.5rem; 
+}
+
+h4 {
+    font-size: 4rem; 
+}
+
+#player-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+#player-controls button {
+    margin: 0 25px;
+    padding: 1.5rem;
+    font-size: 6rem; 
+}
+a {
+    color: #fff;
+    font-weight: 600;
+}
